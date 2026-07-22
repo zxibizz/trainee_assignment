@@ -1,0 +1,21 @@
+# Byte-compiled / venv
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SQLite databases
+*.db
+
+# CLI token storage
+.products_cli_tokens.json
+.tokens.json
+
+# pytest
+.pytest_cache/
+
+# MacOS
+.DS_Store
+
+# sumbissions
+products-cli-challenge-*.tar.gz
